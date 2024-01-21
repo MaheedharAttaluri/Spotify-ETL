@@ -9,3 +9,5 @@
 •	Initiated data transformation with S3 triggers and Lambda to sort data into designated bucket folders.
 
 •	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena.
+
+![Lane Detection Demo](img/clouldstorage.png)
