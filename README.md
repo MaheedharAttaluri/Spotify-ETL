@@ -1,5 +1,7 @@
 # Spotify Data pipeline (ETL)
 
+![Lane Detection Demo](Image/Spotify-ETL.jpeg)
+
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
 
 •	Extracted Spotify API data using Python and automated extraction to AWS Lambda for efficient processing and storage.
