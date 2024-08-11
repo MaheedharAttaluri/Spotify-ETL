@@ -1,7 +1,7 @@
 # Spotify Data pipeline (ETL)
 
 ![Lane Detection Demo](Image/Spotify-ETL.jpeg)
-![Lane Detection Demo](Image/ETL-Snowflake.jpeg)
+![Lane Detection Demo](Image/ETLSnowflake.jpeg)
 
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
 
